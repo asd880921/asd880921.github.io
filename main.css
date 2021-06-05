@@ -1412,7 +1412,7 @@
   width: 200px;
   height: 120px;
   background: url("https://i.imgur.com/J9A4F1h.png") no-repeat;
-  background-size: 125%;
+  background-size: 200%;
 }
 :root .app-2rEoOp::after {
   bottom: 20px;
